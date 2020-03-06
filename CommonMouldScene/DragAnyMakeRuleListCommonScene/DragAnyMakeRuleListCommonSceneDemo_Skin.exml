@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DragAnyMakeRuleListCommonSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg8_jpg" x="0" y="0" locked="true"/>
+			<e:Image source="big_page_scene8_json.8_1" x="27.5" y="163.15" locked="true"/>
+			<e:Rect id="rect_1" width="1532.12" height="883.64" x="20.73" y="154.91" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0" locked="true"/>
+			<e:Image id="img_1" source="big_page_scene8_json.8_2" x="326.7" y="1193" anchorOffsetY="94" anchorOffsetX="209" locked="true"/>
+			<e:Image id="img_2" source="big_page_scene8_json.8_3" x="795.36" y="1193" anchorOffsetY="95" anchorOffsetX="199" locked="true"/>
+			<e:Image id="img_3" source="big_page_scene8_json.8_4" x="1243.08" y="1193" anchorOffsetY="93" anchorOffsetX="189" locked="true"/>
+			<e:Label id="lable_1_1" text="11" x="314.67" y="323" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_1_2" text="11" x="539.32" y="323" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_1_3" text="11" x="764.06" y="323" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_2_1" text="11" x="318.61" y="445.12" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_2_2" text="11" x="543.26" y="445.12" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_2_3" text="11" x="768" y="445.12" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_3_1" text="11" x="318.61" y="572.39" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_3_2" text="11" x="543.26" y="572.39" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_3_3" text="11" x="768" y="572.39" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_4_1" text="11" x="318.61" y="696.64" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_4_2" text="11" x="543.26" y="696.64" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_4_3" text="11" x="768" y="696.64" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_5_1" text="11" x="318.61" y="814.82" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_5_2" text="11" x="543.26" y="814.82" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_5_3" text="11" x="768" y="814.82" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_6_1" text="11" x="318.61" y="942.09" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_6_2" text="11" x="543.26" y="942.09" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_6_3" text="11" x="768" y="942.09" anchorOffsetX="0" width="98.24" anchorOffsetY="0" height="57.27" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_t7_1" text="50+20+20+10=100" x="954.22" y="313.91" anchorOffsetX="0" width="555.82" anchorOffsetY="0" height="69.39" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="50" locked="true"/>
+			<e:Label id="lable_t7_2" text="20+20+10+10+10=100" x="954.22" y="435.5" anchorOffsetX="0" width="555.82" anchorOffsetY="0" height="69.39" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="40" locked="true"/>
+			<e:Label id="lable_t7_3" text="50+10+10+10+10+10=100" x="951.18" y="563.3" anchorOffsetX="0" width="555.82" anchorOffsetY="0" height="69.39" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="40" locked="true"/>
+			<e:Label id="lable_t7_4" text="20+20+20+20+10+10=100" x="954.22" y="689.15" anchorOffsetX="0" width="555.82" anchorOffsetY="0" height="69.39" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="40" locked="true"/>
+			<e:Label id="lable_t7_5" text="20+20+20+10+10+10+10=100" x="954.22" y="810.7" anchorOffsetX="0" width="555.82" anchorOffsetY="0" height="69.39" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="35" locked="true"/>
+			<e:Label id="lable_t7_6" text="20+20+10+10+10+10+10+10=100" x="954.22" y="936.03" anchorOffsetX="0" width="555.82" anchorOffsetY="0" height="69.39" fontFamily="Microsoft YaHei" textColor="0x000000" textAlign="center" verticalAlign="middle" size="32" locked="true"/>
+			<e:Image id="btnNext" source="big_loading_json.clickbtn_png" x="1474.5" y="1288" locked="true"/>
+			<e:Image id="btnReset" source="big_loading_json.update_png" x="1378.97" y="1285" locked="true"/>
+
+    </e:Group>
+</e:Skin>

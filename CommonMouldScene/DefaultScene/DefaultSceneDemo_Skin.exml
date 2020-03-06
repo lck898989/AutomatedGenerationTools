@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DefaultSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+        <e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg2_jpg" x="0" y="0"/>
+
+    </e:Group>
+</e:Skin>

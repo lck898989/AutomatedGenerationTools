@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DropToRuleRectSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg8_jpg" x="0" y="0"/>
+			<e:Rect id="rect_1" width="350.3" height="350.3" x="217.83" y="360.67" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_2" width="350.3" height="350.3" x="989.09" y="380.67" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_3" width="350.3" height="350.3" x="612.83" y="83.7" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_4" width="350.3" height="350.3" x="605.85" y="655.82" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Image id="img_1" source="big_page_scene8_json.page_obj_8_1" x="60.6" y="957"/>
+			<e:Image id="img_2" source="big_page_scene8_json.page_obj_8_2" x="428.3333333333333" y="956"/>
+			<e:Image id="img_3" source="big_page_scene8_json.page_obj_8_3" x="795.2366666666667" y="956"/>
+			<e:Image id="img_4" source="big_page_scene8_json.page_obj_8_4" x="1162.7" y="956"/>
+
+    </e:Group>
+</e:Skin>

@@ -1,0 +1,3 @@
+[submodule "Courseware_Framework"]
+	path = Courseware_Framework
+url=ssh://git@gitlab.yixiusiwei.com:35187/hes-apps/courseware/Courseware_Framework.git

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ClickItemForShowPhaseSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg12_jpg" x="0" y="0"/>
+			<e:Image id="cImg1" source="big_page_scene12_json.12_1_png" x="76" y="235"/>
+			<e:Image id="cImg2" x="804" y="255" source="big_page_scene12_json.12_2_png"/>
+			<e:Image id="s2" source="big_page_scene12_json.12_2_png" x="804" y="765"/>
+			<e:Image id="s1" source="big_page_scene12_json.12_1_png" x="76" y="765"/>
+			<e:Image id="backImg" x="1486" y="1273" source="update_png"/>
+
+    </e:Group>
+</e:Skin>

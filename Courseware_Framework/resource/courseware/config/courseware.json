@@ -1,0 +1,9 @@
+{
+    "courseware": [
+        {
+            "name": "GetStarScene",
+            "curLoad": "complete",
+            "data": { "starName" : "star_png", "backIndex" : 1}
+        }
+    ]
+}

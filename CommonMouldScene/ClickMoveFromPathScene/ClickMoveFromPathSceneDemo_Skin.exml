@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ClickMoveFromPathSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg7_jpg" x="0" y="0"/>
+			<e:Rect id="rect_1" width="780.6" height="386.67" x="781" y="-2.88" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_2" width="880.6" height="513.94" x="187.97" y="834.23" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Group id="curMoveObj" x="363" y="575" width="726" height="373" anchorOffsetX="363" anchorOffsetY="186.5">
+				<e:Image id="img_car" source="big_page_scene7_json.7_7" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+				<e:Image id="img_carPeople2" x="208" y="224" source="big_page_scene7_json.7_6"/>
+				<e:Image id="img_carPeople1" source="big_page_scene7_json.7_2" x="209" y="144"/>
+			</e:Group>
+			<e:Image id="img_people1" source="big_page_scene7_json.7_1" x="1171.3" y="268.5"/>
+			<e:Image id="img_people2" source="big_page_scene7_json.7_5" x="943.57" y="947.99"/>
+
+    </e:Group>
+</e:Skin>

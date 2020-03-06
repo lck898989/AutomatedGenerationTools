@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DragAnyMakeAndCancleComponentDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg12_jpg" x="0" y="0"/>
+			<e:Rect id="rect_left" width="810.91" height="416.97" x="0" y="927.27" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Rect id="rect_right" width="750.3" height="920" x="810.91" y="3.03" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0" strokeAlpha="0"/>
+			<e:Image id="img_left1" source="big_page_scene12_json.page_obj_12_4" x="220" y="281" anchorOffsetX="143" anchorOffsetY="116"/>
+			<e:Image id="img_left2" x="253.33" y="531" anchorOffsetX="108.5" anchorOffsetY="116" source="big_page_scene12_json.page_obj_12_5"/>
+			<e:Image id="img_left3" x="253.33" y="781.41" anchorOffsetX="108.5" anchorOffsetY="116.5" source="big_page_scene12_json.page_obj_12_6"/>
+			<e:Image id="img_right1" source="big_page_scene12_json.page_obj_12_1" x="1010.24" y="1038.42" anchorOffsetX="134" anchorOffsetY="64"/>
+			<e:Image id="img_right2" x="1320.06" y="1038.42" anchorOffsetX="125.5" anchorOffsetY="62" source="big_page_scene12_json.page_obj_12_2"/>
+			<e:Image id="img_right3" x="1147.27" y="1192.5" anchorOffsetX="147.5" anchorOffsetY="70.5" source="big_page_scene12_json.page_obj_12_3"/>
+			<e:Image id="btnReset" source="big_loading_json.update_png" x="0" y="1177"/>
+    </e:Group>
+</e:Skin>

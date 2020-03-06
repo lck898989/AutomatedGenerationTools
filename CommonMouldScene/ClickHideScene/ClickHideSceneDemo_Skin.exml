@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ClickHideSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg11_jpg" x="0" y="0"/>
+			<e:Image id="img_1" x="439.97" y="179" source="big_page_scene11_json.11_1"/>
+			<e:Image id="img_2" x="711.5" y="179" source="big_page_scene11_json.11_2"/>
+			<e:Image id="img_3" x="984.03" y="179" source="big_page_scene11_json.11_3"/>
+			<e:Image id="img_4" source="big_page_scene11_json.11_6" x="439.97" y="458.85"/>
+			<e:Image id="img_5" source="big_page_scene11_json.11_5" x="711.5" y="458.85"/>
+			<e:Image id="img_6" source="big_page_scene11_json.11_7" x="984.03" y="458.85"/>
+			<e:Image id="img_7" source="big_page_scene11_json.11_7" x="439.97" y="750.88"/>
+			<e:Image id="img_8" source="big_page_scene11_json.11_8" x="711.5" y="750.88"/>
+			<e:Image id="img_9" x="984.03" y="750.88" source="big_page_scene11_json.11_4"/>
+			<e:Image id="btnReset" source="big_loading_json.update_png" x="1498" y="1270.64"/>
+
+    </e:Group>
+</e:Skin>

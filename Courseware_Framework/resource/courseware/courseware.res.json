@@ -1,0 +1,15 @@
+{
+	"groups": [
+		{
+			"keys": "courseware_json",
+			"name": "courseware_preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "courseware/config/courseware.json",
+			"type": "json",
+			"name": "courseware_json"
+		}
+	]
+}

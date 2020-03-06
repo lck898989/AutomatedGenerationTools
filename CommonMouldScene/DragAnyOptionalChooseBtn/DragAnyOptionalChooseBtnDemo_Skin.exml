@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DragAnyOptionalChooseBtnDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg5_jpg" x="0" y="0"/>
+      <e:Image id="img_choose" x="1339" y="598.48" anchorOffsetX="146" anchorOffsetY="62" source="big_page_scene5_json.page_obj_5_1"/>
+			<e:Rect id="rect_1" width="292" height="124" x="1339" y="298" fillAlpha="0" strokeAlpha="0" anchorOffsetX="146" anchorOffsetY="62"/>
+			<e:Rect id="rect_2" width="292" height="124" x="1339" y="452" fillAlpha="0" strokeAlpha="0" anchorOffsetX="146" anchorOffsetY="62"/>
+			<e:Rect id="rect_3" width="292" height="124" x="1339" y="598.48" fillAlpha="0" strokeAlpha="0" anchorOffsetX="146" anchorOffsetY="62"/>
+			<e:Image id="img_1" x="1381.79" y="1181.09" anchorOffsetX="27.5" anchorOffsetY="27" source="big_page_scene5_json.page_obj_5_4"/>
+			<e:Image id="img_2" x="1254.55" y="1181.09" anchorOffsetX="31.5" anchorOffsetY="27.5" source="big_page_scene5_json.page_obj_5_3"/>
+			<e:Image id="img_3" x="1066.6" y="1181.09" anchorOffsetX="61.5" anchorOffsetY="8" source="big_page_scene5_json.page_obj_5_2"/>
+			<e:Image id="btnReset" source="big_loading_json.update_png" x="115" y="1110.09"/>
+    </e:Group>
+</e:Skin>

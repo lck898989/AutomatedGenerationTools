@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TweenToCenterSceneDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg11_jpg" x="0" y="0"/>
+      <e:Image id="img_title" x="578.6" y="188" source="big_page_scene11_json.page_obj_11_8"/>
+			<e:Image id="img_left_bg" x="72" y="316" source="big_page_scene11_json.page_obj_11_4"/>
+			<e:Image id="img_right_bg" x="814" y="316" source="big_page_scene11_json.page_obj_11_5"/>
+			<e:Image id="img_left_1" x="314" y="508" source="big_page_scene11_json.page_obj_11_7"/>
+			<e:Image id="img_right_1" x="1041" y="496" source="big_page_scene11_json.page_obj_11_6"/>
+			<e:Image id="img_target_1" x="719" y="506" source="big_page_scene11_json.page_obj_11_3"/>
+			<e:Image id="img_target_2" x="404" y="453.5" source="big_page_scene11_json.page_obj_11_1"/>
+			<e:Image id="img_target_3" x="1050" y="453.5" source="big_page_scene11_json.page_obj_11_2"/>
+			<e:Image id="btnMerge" source="big_loading_json.clickbtn_png" x="1310" y="1154"/> 
+    </e:Group>
+</e:Skin>

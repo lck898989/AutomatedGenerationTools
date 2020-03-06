@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BalanceComponentDemo_Skin" width="1562" height="1348" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group id="group">
+		<e:Image id="img_bg" scaleX="1" scaleY="1" source="page_scene_bg3_jpg" x="0" y="0"/>
+			<e:Image source="big_page_scene3_json.3_06" x="720.85" y="516.56"/>
+			<e:Rect id="rect_1" width="364" height="254" x="553.34" y="583.31" anchorOffsetX="181.82" anchorOffsetY="203.03" alpha=".5" strokeAlpha="0" fillAlpha="0"/>
+			<e:Rect id="rect_2" width="340" height="276" x="1049.13" y="581.59" anchorOffsetX="160.61" anchorOffsetY="203.03" alpha="0.5" strokeAlpha="0" fillAlpha="0"/>
+			<e:Image id="img_t1" source="big_page_scene3_json.3_01" x="803.52" y="582.43" anchorOffsetX="267" anchorOffsetY="41.67"/>
+			<e:Image id="img_t2" source="big_page_scene3_json.3_02" x="564.52" y="587.02" anchorOffsetX="124" anchorOffsetY="90"/>
+			<e:Image id="img_t3" source="big_page_scene3_json.3_03" x="1051.67" y="587.28" anchorOffsetX="124" anchorOffsetY="90"/>
+			<e:Image id="img_2" source="big_page_scene3_json.3_04" x="1310" y="1075" anchorOffsetX="86.5" anchorOffsetY="86"/>
+			<e:Image id="img_1" source="big_page_scene3_json.3_05" x="295" y="1065" anchorOffsetX="75" anchorOffsetY="74.5"/>
+    </e:Group>
+</e:Skin>
